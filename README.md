@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fi&pause=1000&color=00FF1F&center=true&vCenter=true&width=435&lines=Print+(%22+Bem-vindo+ao+meu+perfil+%22);input+(%22+O+que+deseja%3A+%22))](https://git.io/typing-svg)
+
 
 ## 🌐 Socials:
 <a href="https://instagram.com/_oliveira.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
