@@ -1,24 +1,17 @@
-   <a href="https://github.com/Gustavo1910">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gustavo1910&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo1910&layout=compact&langs_count=6&theme=tokyonight"/>
 
-</div>
-<div style="display: inline_block" gap: 50px ><br>
-  <img align="center" alt="Django" height="100" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
-  <img align="center" alt="Visual" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
-  <img align="center" alt="Python" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img align="center" alt="C#" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-          
-</div>
- 
- <br>
- 
-  ### Minhas redes sociais!!
- 
-<div> 
-  <a href="https://instagram.com/_oliveira.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:wolftenis271108@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Gustavo1910/Gustavo1910/blob/output/github-contribution-grid-snake.svg)
+## 🌐 Socials:
+<a href="https://instagram.com/_oliveira.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:wolftenis271108@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-</div>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gustavo1910&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gustavo1910&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo1910&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+ ![Snake animation](https://github.com/Gustavo1910/Gustavo1910/blob/output/github-contribution-grid-snake.svg)
+
+
+
