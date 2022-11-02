@@ -11,3 +11,7 @@
 
 
 
+ ![Snake animation](https://github.com/Gustavo1910/Gustavo1910/blob/output/github-contribution-grid-snake.svg)
+
+
+
