@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=fi&pause=1000&color=00FF1F&center=true&vCenter=true&width=435&lines=Print+(%22+Bem-vindo+ao+meu+perfil+%22);input+(%22+O+que+deseja%3A+%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=fi&pause=1000&color=00FF1F&center=true&vCenter=true&width=435&lines=Print+(%22+Bem-vindo+ao+meu+perfil+%22);Print+(%22+Sou+o+Gustavo+%22);input+(%22+O+que+deseja%3A+%22))](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
